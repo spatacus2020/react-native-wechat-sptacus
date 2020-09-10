@@ -340,13 +340,10 @@ $ npm install react-native-wechat --save
 
 | GitHub        | Role       | Email                 |
 |---------------|------------|-----------------------|
-| [@yorkie]     | Author     | yorkiefixer@gmail.com |
-| [@xing-zheng] | Emeriti    |                       |
-| [@tdzl2003]   | Emeriti    | tdzl2003@gmail.com    |
+| [@spatacus2020]     | Author     | wheream2013@gmail.com |
 
-[@yorkie]: https://github.com/yorkie
-[@xing-zheng]: https://github.com/xing-zheng
-[@tdzl2003]: https://github.com/tdzl2003
+
+ 
 
 ## License
 

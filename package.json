@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/weflex/react-native-wechat.git"
+    "url": "https://github.com/spatacus2020/react-native-wechat-sptacus.git"
   },
   "keywords": [
     "wechat",
@@ -23,20 +23,16 @@
   "peerDependencies": {
     "react-native": ">=0.40"
   },
-  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "author": "Spataucs <wheream2013@gmail.com>",
   "contributors": [
     {
-      "name": "Yorkie Liu",
-      "email": "yorkiefixer@gmail.com"
-    },
-    {
-      "name": "Deng Yun",
-      "email": "tdzl2003@gmail.com"
+      "name": "Spataucs",
+      "email": "wheream2013@gmail.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/weflex/react-native-wechat/issues"
+    "url": "https://github.com/spatacus2020/react-native-wechat-sptacus/issues"
   },
-  "homepage": "https://github.com/weflex/react-native-wechat#readme"
+  "homepage": "https://github.com/spatacus2020/react-native-wechat-sptacus#readme"
 }
